@@ -16,3 +16,6 @@ los resultados obtenidos. Los patrones a detectar y clasificar estarán contenid
 como se ve en las siguientes figuras:
 
 ![Figura](imágen/letras.png)
+
+En la carpeta output se encuentra el ejecutable ventana.exe disponible apra windows 10/11 donde se podrá entrenar, inferir y obetenr la rpecision del modelo
+Tambien se encuentra un instructivo del programa
